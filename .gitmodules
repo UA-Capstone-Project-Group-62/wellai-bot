@@ -1,0 +1,6 @@
+[submodule "bot"]
+	path = bot
+	url = git@github.com:UA-Capstone-Project-Group-62/wellai-bot-whatsapp
+[submodule "agent"]
+	path = agent
+	url = git@github.com:UA-Capstone-Project-Group-62/wellai-bot-ai-agent
