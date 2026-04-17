@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-- Docker Desktop (or Docker Engine with Docker Compose v2)
+- Docker
 - Git
 
 ### Clone with submodules
